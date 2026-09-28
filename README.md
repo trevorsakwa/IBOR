@@ -143,9 +143,6 @@ Guide to the workbook's sheet structure, colour coding (green = matched, red = b
 5. Adjust the sample data to reflect your own fund's holdings, custodian, and pricing vendors.
 6. Use the Regulatory Reference and Controls Framework sheets to map each reconciliation step to your firm's compliance obligations.
 
-## Disclaimer
-
-This project is an educational example. It does not constitute regulatory advice. Firms should consult their compliance teams and legal advisers to ensure their record-keeping arrangements meet FCA requirements specific to their authorisation, permissions, and business model.
 
 ## License
 
